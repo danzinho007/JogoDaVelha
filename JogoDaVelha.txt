@@ -6,7 +6,6 @@ A | B | C
 4 | 5 | 6
 7 | 8 | 9
 
-
 X = 1   O = 3   X = 7   O = 9   X = 1   O = 6   
 X|_|_   _|_|_   _|_|O   _|_|O   X|_|O_  X|_|O  
 _|_|_ > _|_|_ > _|X|_ > _|X|_ > _|X|_ > _|X|O  
@@ -26,4 +25,3 @@ X = 5   O = 3   X = 7   O = 9   X = 6   O = 4
 _|_|_   _|_|O   _|_|O   _|_|O   _|_|O_  _|_|O  Velha
 _|X|_ > _|X|_ > _|X|_ > _|X|_ > _|X|6 > 0|X|X  Se jogar em 8, dps joga em 2
  | |     | |    X| |    X| |O   X| |O   X| |O  Se jogar em 2, dps joga em 8
-
